@@ -18,4 +18,3 @@
 ## 🎮 Hobbies
 - 🎮 CS, LOL e Valorant
 - 🎧 Pagodin e Rap
-- ♣ Truco
