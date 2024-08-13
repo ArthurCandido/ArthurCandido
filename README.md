@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, Eu sou Arthur Candido! 👋
 
-<!--
-**ArthurCandido/ArthurCandido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+- 🌱 Estudante de Ciência da Computação na UTFPR
+- 💻 Desenvolvedor Frontend com foco em React, Angular e Flutter
+- 📱 Experiência em desenvolvimento móvel e web
+- 🎯 Sempre buscando aprender novas tecnologias e melhorar minhas habilidades
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias & Ferramentas
+- **Linguagens:** JavaScript, Python, TypeScript, Dart, C++
+- **Frameworks:** React, Angular, FLutter
+- **Ferramentas:** Git, Docker, VSCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Como me encontrar
+- **LinkedIn:** [linkedin.com/in/arthur-candido-115344272](https://linkedin.com/in/arthur-candido-115344272)
+- **E-mail:** [arthurarcelo24@gmail.com](mailto:arthurarcelo@gmail.com)
+
+## 🎮 Hobbies
+- 🎮 CS, LOL e Valorant
+- 🎧 Pagodin e Rap
+- ♣ Truco
