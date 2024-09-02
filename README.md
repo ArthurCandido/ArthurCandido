@@ -8,7 +8,7 @@
 
 ## 🔧 Tecnologias & Ferramentas
 - **Linguagens:** JavaScript, Python, TypeScript, Dart, C++
-- **Frameworks:** React, Angular, FLutter
+- **Frameworks:** React, Angular, Flutter
 - **Ferramentas:** Git, Docker, VSCode
 
 ## 📫 Como me encontrar
